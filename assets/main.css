@@ -8,6 +8,12 @@
 		.text-primary {
 		  color: #fed136;
 		}
+		.icon-circle {
+		  color: #fed136;
+		}
+		a:hover .icon-circle {
+		  color: #fec503;
+		}
 		p {
 		  font-size: 14px;
 		  line-height: 1.75;
